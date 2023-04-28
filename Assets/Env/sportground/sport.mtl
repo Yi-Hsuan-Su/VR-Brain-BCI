@@ -1,0 +1,83 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _27
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.619608 0.619608
+Ks 0.330000 0.330000 0.330000
+d 0.610000
+map_Kd sport/_27.jpg
+
+newmtl _138
+Ka 0.000000 0.000000 0.000000
+Kd 0.980392 0.988235 0.968627
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/_138.jpg
+
+newmtl hex2
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.949020 0.952941
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/hex2.png
+
+newmtl _8
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/_8.jpg
+
+newmtl M_3_41
+Ka 0.000000 0.000000 0.000000
+Kd 0.760784 0.760784 0.760784
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/M_3_41.jpg
+
+newmtl runner_track
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.356863 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/runner_track.png
+
+newmtl pitch1
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.611765 0.317647
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/pitch1.jpg
+
+newmtl deutsch_board
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.600000 0.529412
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/deutsch_board.jpg
+
+newmtl _Groundcover_Brick_Crushed_1_copy1
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.301961 0.274510
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/_Groundcover_Brick_Crushed_1_copy1.jpg
+
+newmtl _113
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.611765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/_113.jpg
+
+newmtl _Groundcover_Brick_Crushed_1_copy
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.345098 0.309804
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/_Groundcover_Brick_Crushed_1_copy.jpg
+
+newmtl Ska_rmavbild_2015_06_21_kl__10_36_26
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.384314 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/Ska_rmavbild_2015_06_21_kl__10_36_26.png
+
+newmtl Material113_copy
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.588235 0.568627
+Ks 0.330000 0.330000 0.330000
+map_Kd sport/Material113_copy.jpg
+

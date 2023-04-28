@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a79ab629b142bd049b86a56ba84fb091
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StraightWall: {fileID: 1199873969801796, guid: 313ca76050ae84e47813a7ae12283733,
+      type: 2}
+  - TurnLeftWall: {fileID: 1741742588244742, guid: e0f92077104b00c4196be1aaecf6c8ad,
+      type: 2}
+  - TurnRightWall: {fileID: 1144670462793602, guid: b90a2b9bc6d62c04b85966360f41570b,
+      type: 2}
+  - tran: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
